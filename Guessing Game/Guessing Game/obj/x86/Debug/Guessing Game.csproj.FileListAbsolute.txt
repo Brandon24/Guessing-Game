@@ -1,0 +1,5 @@
+C:\Users\EAHS CS\Documents\GitHub\Guessing-Game\Guessing Game\Guessing Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EAHS CS\Documents\GitHub\Guessing-Game\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe
+C:\Users\EAHS CS\Documents\GitHub\Guessing-Game\Guessing Game\Guessing Game\bin\Debug\Guessing Game.pdb
+C:\Users\EAHS CS\Documents\GitHub\Guessing-Game\Guessing Game\Guessing Game\obj\x86\Debug\Guessing Game.exe
+C:\Users\EAHS CS\Documents\GitHub\Guessing-Game\Guessing Game\Guessing Game\obj\x86\Debug\Guessing Game.pdb
