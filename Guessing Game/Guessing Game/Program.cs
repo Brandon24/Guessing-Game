@@ -9,40 +9,45 @@ namespace Guessing_Game
     {
         static void Main(string[] args)
         {
+            string input;
+            int h = 100, l = 0, e = 50, guess;
             
-            int guess;
-            String Input;
             while (true)
             {
-                
-               if(guess >= 0 && guess <=100)
-               {
-                guess = 50;
-                {
+                guess = (h + 1) / 2;
                 Console.WriteLine("Is your guess {0}? h, l, e ", guess);
-                Input = Console.ReadLine();
-               
-                    if (Input == "h")
-                {
-                    guess = 75;
-                    }
-                }
+                input = Console.ReadLine();
                 
-                    else(Input = "l");
-                 
+                if (guess >= 0 && guess <= 100)
                 {
-                    guess = 25;
-                }
+                    guess = 50;
+                    {
+                        
+                        if (input == "h")
+                        {
+                            guess = 75;
+                        }
+
+
+                         else if (input == "l")
+                        {
+                            guess = 25;
+                        }
+
+                         else if (input == "e")
+                         {
+                             guess = 50;
+                         }
 
 
 
+                    }
 
                 }
 
             }
 
         }
-
     }
 }
             
